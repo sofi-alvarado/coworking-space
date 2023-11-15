@@ -1,4 +1,31 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.item-img {
+    width: 100%;
+}
+
+nav {
+    background-color: #282828;
+}
+
+ul {
+    margin-top: 0;
+    display: flex;
+    color: whitesmoke;
+    list-style: none;
+    padding: 25px;
+}
+
+.icon {
+    width: 25px;
+    margin-left: 5px;
+}
+
+.logo {
+    size: 18px;
+    font-weight: 700;
 }
