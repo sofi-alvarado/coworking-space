@@ -20,9 +20,17 @@ ul {
     padding: 25px;
 }
 
+li {
+    cursor: pointer;
+}
+
 .icon {
     width: 25px;
-    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.align-right {
+    margin-left: auto;
 }
 
 .logo {
